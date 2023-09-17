@@ -1,0 +1,135 @@
+Gm#,Date,Team,Location,Opponent,W/L,W/L_Differential,R,RA,Streak
+1,"Thursday, Apr 1",LAA,,White Sox,W,1,4,3,+
+2,"Friday, Apr 2",LAA,,White Sox,L,-4,8,12,-
+3,"Saturday, Apr 3",LAA,,White Sox,W,2,5,3,+
+4,"Sunday, Apr 4",LAA,,White Sox,W,3,7,4,++
+5,"Monday, Apr 5",LAA,,Astros,W,1,7,6,+++
+6,"Tuesday, Apr 6",LAA,,Astros,L,-2,2,4,-
+7,"Thursday, Apr 8",LAA,@,Blue Jays,W,2,7,5,+
+8,"Friday, Apr 9",LAA,@,Blue Jays,W,6,7,1,++
+9,"Saturday, Apr 10",LAA,@,Blue Jays,L,-14,1,15,-
+10,"Monday, Apr 12",LAA,@,Royals,W,7,10,3,+
+11,"Tuesday, Apr 13",LAA,@,Royals,L,-1,2,3,-
+12,"Wednesday, Apr 14",LAA,@,Royals,L,-5,1,6,--
+13,"Friday, Apr 16",LAA,,Twins,W,7,10,3,+
+14,"Monday, Apr 19",LAA,,Rangers,L,-2,4,6,-
+15,"Tuesday, Apr 20",LAA,,Rangers,W,4,6,2,+
+16,"Wednesday, Apr 21",LAA,,Rangers,L,-3,4,7,-
+17,"Thursday, Apr 22",LAA,@,Astros,L,-6,2,8,--
+18,"Friday, Apr 23",LAA,@,Astros,L,-1,4,5,---
+19,"Saturday, Apr 24",LAA,@,Astros,L,-14,2,16,----
+20,"Sunday, Apr 25",LAA,@,Astros,W,2,4,2,+
+21,"Monday, Apr 26",LAA,@,Rangers,W,5,9,4,++
+22,"Tuesday, Apr 27",LAA,@,Rangers,L,-5,1,6,-
+23,"Wednesday, Apr 28",LAA,@,Rangers,W,1,4,3,+
+24,"Friday, Apr 30",LAA,@,Mariners,L,-3,4,7,-
+25,"Saturday, May 1",LAA,@,Mariners,W,5,10,5,+
+26,"Sunday, May 2",LAA,@,Mariners,L,-2,0,2,-
+27,"Monday, May 3",LAA,,Rays,L,-4,3,7,--
+28,"Tuesday, May 4",LAA,,Rays,L,-5,3,8,---
+29,"Wednesday, May 5",LAA,,Rays,L,-2,1,3,----
+30,"Thursday, May 6",LAA,,Rays,L,-5,3,8,-----
+31,"Friday, May 7",LAA,,Dodgers,W,7,9,2,+
+32,"Saturday, May 8",LAA,,Dodgers,L,-3,11,14,-
+33,"Sunday, May 9",LAA,,Dodgers,W,1,2,1,+
+34,"Monday, May 10",LAA,@,Astros,W,1,5,4,++
+35,"Tuesday, May 11",LAA,@,Astros,L,-4,1,5,-
+36,"Wednesday, May 12",LAA,@,Astros,L,-8,1,9,--
+37,"Friday, May 14",LAA,@,Red Sox,L,-1,3,4,---
+38,"Saturday, May 15",LAA,@,Red Sox,L,-9,0,9,----
+39,"Sunday, May 16",LAA,@,Red Sox,W,1,6,5,+
+40,"Monday, May 17",LAA,,Indians,W,3,7,4,++
+41,"Tuesday, May 18",LAA,,Indians,L,-1,5,6,-
+42,"Wednesday, May 19",LAA,,Indians,L,-1,2,3,--
+43,"Thursday, May 20 (1)",LAA,,Twins,W,6,7,1,+
+44,"Thursday, May 20 (2)",LAA,,Twins,L,-3,3,6,-
+45,"Friday, May 21",LAA,,As,L,-4,4,8,--
+46,"Saturday, May 22",LAA,,As,L,-4,2,6,---
+47,"Sunday, May 23",LAA,,As,W,1,6,5,+
+48,"Tuesday, May 25",LAA,,Rangers,W,6,11,5,++
+49,"Wednesday, May 26",LAA,,Rangers,W,1,9,8,+++
+50,"Thursday, May 27",LAA,@,As,L,-5,0,5,-
+51,"Friday, May 28",LAA,@,As,L,-2,1,3,--
+52,"Saturday, May 29",LAA,@,As,W,4,4,0,+
+53,"Sunday, May 30",LAA,@,As,W,2,4,2,++
+54,"Monday, May 31",LAA,@,Giants,L,-5,1,6,-
+55,"Tuesday, Jun 1",LAA,@,Giants,W,7,8,1,+
+56,"Thursday, Jun 3",LAA,,Mariners,L,-4,2,6,-
+57,"Friday, Jun 4",LAA,,Mariners,W,1,3,2,+
+58,"Saturday, Jun 5",LAA,,Mariners,W,7,12,5,++
+59,"Sunday, Jun 6",LAA,,Mariners,L,-4,5,9,-
+60,"Monday, Jun 7",LAA,,Royals,W,5,8,3,+
+61,"Tuesday, Jun 8",LAA,,Royals,W,7,8,1,++
+62,"Wednesday, Jun 9",LAA,,Royals,W,5,6,1,+++
+63,"Friday, Jun 11",LAA,@,Diamondbacks,W,1,6,5,++++
+64,"Saturday, Jun 12",LAA,@,Diamondbacks,W,1,8,7,+++++
+65,"Sunday, Jun 13",LAA,@,Diamondbacks,W,7,10,3,++++++
+66,"Monday, Jun 14",LAA,@,As,L,-3,5,8,-
+67,"Tuesday, Jun 15",LAA,@,As,L,-2,4,6,--
+68,"Wednesday, Jun 16",LAA,@,As,L,-4,4,8,---
+69,"Thursday, Jun 17",LAA,,Tigers,W,2,7,5,+
+70,"Friday, Jun 18",LAA,,Tigers,W,8,11,3,++
+71,"Saturday, Jun 19",LAA,,Tigers,W,5,8,3,+++
+72,"Sunday, Jun 20",LAA,,Tigers,L,-2,3,5,-
+73,"Tuesday, Jun 22",LAA,,Giants,L,-5,0,5,--
+74,"Wednesday, Jun 23",LAA,,Giants,L,-6,3,9,---
+75,"Friday, Jun 25",LAA,@,Rays,L,-1,3,4,----
+76,"Saturday, Jun 26",LAA,@,Rays,L,-10,3,13,-----
+77,"Sunday, Jun 27",LAA,@,Rays,W,2,6,4,+
+78,"Monday, Jun 28",LAA,@,Yankees,W,2,5,3,++
+79,"Tuesday, Jun 29",LAA,@,Yankees,L,-6,5,11,-
+80,"Wednesday, Jun 30",LAA,@,Yankees,W,3,11,8,+
+81,"Friday, Jul 2",LAA,,Orioles,W,1,8,7,++
+82,"Saturday, Jul 3",LAA,,Orioles,W,3,4,1,+++
+83,"Sunday, Jul 4",LAA,,Orioles,W,1,6,5,++++
+84,"Monday, Jul 5",LAA,,Red Sox,L,-1,4,5,-
+85,"Tuesday, Jul 6",LAA,,Red Sox,W,2,5,3,+
+86,"Wednesday, Jul 7",LAA,,Red Sox,W,1,5,4,++
+87,"Friday, Jul 9",LAA,@,Mariners,L,-4,3,7,-
+88,"Saturday, Jul 10",LAA,@,Mariners,L,-2,0,2,--
+89,"Sunday, Jul 11",LAA,@,Mariners,W,6,7,1,+
+90,"Friday, Jul 16",LAA,,Mariners,L,-1,5,6,-
+91,"Saturday, Jul 17",LAA,,Mariners,W,5,9,4,+
+92,"Sunday, Jul 18",LAA,,Mariners,L,-3,4,7,-
+93,"Monday, Jul 19",LAA,@,As,L,-3,1,4,--
+94,"Tuesday, Jul 20",LAA,@,As,L,-6,0,6,---
+95,"Thursday, Jul 22",LAA,@,Twins,W,1,3,2,+
+96,"Friday, Jul 23",LAA,@,Twins,L,-1,4,5,-
+97,"Saturday, Jul 24",LAA,@,Twins,W,1,2,1,+
+98,"Sunday, Jul 25",LAA,@,Twins,W,4,6,2,++
+99,"Monday, Jul 26",LAA,,Rockies,W,4,6,2,+++
+100,"Tuesday, Jul 27",LAA,,Rockies,L,-9,3,12,-
+101,"Wednesday, Jul 28",LAA,,Rockies,W,1,8,7,+
+102,"Thursday, Jul 29",LAA,,As,L,-4,0,4,-
+103,"Friday, Jul 30",LAA,,As,L,-2,0,2,--
+104,"Saturday, Jul 31",LAA,,As,W,1,1,0,+
+105,"Sunday, Aug 1",LAA,,As,L,-5,3,8,-
+106,"Monday, Aug 2",LAA,@,Rangers,L,-3,1,4,--
+107,"Tuesday, Aug 3",LAA,@,Rangers,W,8,11,3,+
+108,"Wednesday, Aug 4",LAA,@,Rangers,W,1,2,1,++
+109,"Thursday, Aug 5",LAA,@,Rangers,W,5,5,0,+++
+110,"Friday, Aug 6",LAA,@,Dodgers,W,1,4,3,++++
+111,"Saturday, Aug 7",LAA,@,Dodgers,L,-2,3,5,-
+112,"Sunday, Aug 8",LAA,@,Dodgers,L,-6,2,8,--
+113,"Tuesday, Aug 10 (1)",LAA,,Blue Jays,W,3,6,3,+
+114,"Tuesday, Aug 10 (2)",LAA,,Blue Jays,L,-4,0,4,-
+115,"Wednesday, Aug 11",LAA,,Blue Jays,L,-8,2,10,--
+116,"Thursday, Aug 12",LAA,,Blue Jays,W,3,6,3,+
+117,"Friday, Aug 13",LAA,,Astros,L,-3,1,4,-
+118,"Saturday, Aug 14",LAA,,Astros,L,-6,2,8,--
+119,"Sunday, Aug 15",LAA,,Astros,W,2,3,1,+
+120,"Monday, Aug 16",LAA,@,Yankees,L,-1,1,2,-
+121,"Tuesday, Aug 17",LAA,@,Tigers,W,6,8,2,+
+122,"Wednesday, Aug 18",LAA,@,Tigers,W,2,3,1,++
+123,"Thursday, Aug 19",LAA,@,Tigers,W,3,13,10,+++
+124,"Friday, Aug 20",LAA,@,Indians,L,-8,1,9,-
+125,"Saturday, Aug 21",LAA,@,Indians,L,-4,1,5,--
+126,"Sunday, Aug 22",LAA,@,Indians,L,-3,0,3,---
+127,"Tuesday, Aug 24",LAA,@,Orioles,W,6,14,8,+
+128,"Wednesday, Aug 25",LAA,@,Orioles,L,-4,6,10,-
+129,"Thursday, Aug 26",LAA,@,Orioles,L,-12,1,13,--
+130,"Friday, Aug 27",LAA,,Padres,L,-5,0,5,---
+131,"Saturday, Aug 28",LAA,,Padres,W,8,10,2,+
+132,"Monday, Aug 30",LAA,,Yankees,W,1,8,7,++
+133,"Tuesday, Aug 31",LAA,,Yankees,W,2,6,4,+++
+134,"Wednesday, Sep 1",LAA,,Yankees,L,-3,1,4,-
